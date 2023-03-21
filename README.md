@@ -1,4 +1,4 @@
-<h2 align="center"> Autoscript by KartelTech</h2>
+<h2 align="center"> Autoscript by KARTELTECH</h2>
 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://linuxconfig.org/wp-content/uploads/2018/05/debian_vs_ubuntu.png"></p>
@@ -80,18 +80,16 @@ Feedback to owner on Telegram dosan <a href="https://t.me/jokorzz" target=”_bl
    - Change port
    - Full Orders For Various Services
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Credit :
 
-*   Dosan
-*   Hazzuan1984
-*   Vinstechmy
-*   V-code
-*   ꜱᴀᴍꜱꜰx
+*   Remodded By ᴅᴏꜱᴀɴ
+*   Helper By Hazzuan1984
+*   Helper By Vinstechmy
+*   Helper By V-code
+*   Helper By ꜱᴀᴍꜱꜰx
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-karteltech%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-KartelTech%20AutoScriptVPN%202023.%20All%20rights%20reserved.-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
